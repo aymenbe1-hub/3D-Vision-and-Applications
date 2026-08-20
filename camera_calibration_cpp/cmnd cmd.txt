@@ -1,0 +1,2 @@
+ ./calibrate 5 8 ../calibration ../calibration.yml
+./augReal 2 ../calibration.yml ../augreal.mp4
