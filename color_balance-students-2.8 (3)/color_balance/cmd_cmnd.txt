@@ -1,0 +1,1 @@
+./color_balance -i -p0 ../data/cena-rom├íntica-con-velas-y-vino.jpg salida.jpg
